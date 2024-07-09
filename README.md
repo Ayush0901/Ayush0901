@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Sure, here's an innovative README.md file for your GitHub profile:
 
 <h1 align="center">Welcome to my GitHub Playground! 🎮</h1>
 
@@ -47,9 +46,9 @@ Curious about what I've been up to? Check out some of my latest projects:
 
 If you're as excited about technology as I am, let's connect! You can find me on:
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-handle)
-- [Portfolio](https://your-portfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/ayush-negi-1b267b215/)
+- [Twitter]([https://twitter.com/your-handle](https://x.com/AyushNe87369603))
+- [Portfolio]([https://your-portfolio.com](https://ayush0901.github.io/MySite/))
 
 Let's collaborate, share ideas, and push the boundaries of what's possible in the world of software development. I'm always eager to learn and grow, so feel free to reach out!
 
