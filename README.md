@@ -29,18 +29,12 @@ Hey there! I'm a passionate **software developer** who loves to dive into the wo
 
 I'm proficient in a variety of programming languages and technologies, including:
 
-- **Languages:** [Python], [JavaScript], [Java], [C++]
-- **Frameworks:** [React], [Angular], [Django], [Flask]
+- **Languages:** [Python], [JavaScript], [Java], [C]
+- **Frameworks:** [React], [Flask]
 - **Databases:** [MySQL], [PostgreSQL], [MongoDB]
-- **Tools:** [Git], [Docker], [AWS], [Kubernetes]
+- **Tools:** [Git], [Github]
 
-<h2>Projects</h2>
 
-Curious about what I've been up to? Check out some of my latest projects:
-
-- **[Project 1]:** A cutting-edge web application that revolutionizes the way we [do something].
-- **[Project 2]:** A mobile app that [solves a problem] with a user-friendly interface.
-- **[Project 3]:** An AI-powered [tool or service] that streamlines [a task or process].
 
 <h2>Let's Connect</h2>
 
