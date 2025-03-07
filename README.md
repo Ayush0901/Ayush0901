@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Gif" width="300">
 </p>
-<a href="https://app.daily.dev/ayushnegi"><img src="https://api.daily.dev/devcards/v2/L7LCAuDy3TlllHqiPJyIk.png?type=default&r=52u" width="356" alt="Ayush Negi's Dev Card"/></a>
 
 <h2>About Me</h2>
 
-Hey there! I'm a passionate **software developer** who loves to dive into the world of code and create innovative solutions. Think of me as a tech-savvy explorer, always on the lookout for the next challenge to conquer.
+Hey there! I'm a passionate **software developer** who loves to dive into the world of code and create innovative solutions. Think of me as a tech-savvy explorer, always on the lookout for the next challenge to conquer.Check out my daily dev streak:
+<a href="https://app.daily.dev/ayushnegi"><img src="https://api.daily.dev/devcards/v2/L7LCAuDy3TlllHqiPJyIk.png?type=default&r=52u" width="356" alt="Ayush Negi's Dev Card"/></a>
 
 <h2>My Tech Stack</h2>
 
