@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Gif" width="300">
 </p>
+<a href="https://app.daily.dev/ayushnegi"><img src="https://api.daily.dev/devcards/v2/L7LCAuDy3TlllHqiPJyIk.png?type=default&r=52u" width="356" alt="Ayush Negi's Dev Card"/></a>
 
 <h2>About Me</h2>
 
